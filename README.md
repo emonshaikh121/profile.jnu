@@ -1,2 +1,2 @@
-# profile.jnu
-hii
+<h1>page not found</h1>
+<h2>404 error</h2>
